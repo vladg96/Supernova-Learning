@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_text">#d9000000</color>
+    <color name="primary_1">#ffd0e2ff</color>
+    <color name="primary_2">#ffa6c8ff</color>
+    <color name="primary_3">#ff78a9ff</color>
+    <color name="primary_4">#ff4589ff</color>
+    <color name="_2nd_1">#ff009e9e</color>
+    <color name="_2nd_2">#ff00bbbb</color>
+    <color name="_2nd_3">#ff3ddbdb</color>
+    <color name="_3rd_1">#ffb49af2</color>
+    <color name="_3rd_2">#ff9f78ed</color>
+    <color name="_3rd_3">#ff874ce6</color>
+    <color name="_3rd_4">#ffb3ed37</color>
+    <color name="button_border">#ff000000</color>
+    <color name="borderline_button">#cf000000</color>
+
+
+</resources>
