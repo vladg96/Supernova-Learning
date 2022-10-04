@@ -9,21 +9,18 @@ Welcome to our design system documentation! Below you will find the entire conte
 - [_Tab2](./introduction/tab2.md)
  
 ### Foundations
-- [Overview](./foundations/overview-1.md)
+- [Overview](./foundations/overview.md)
 - [Color](./foundations/color.md)
 - [Typography](./foundations/typography.md)
 - [Iconography](./foundations/iconography.md)
 - [Layout](./foundations/layout.md)
  
 ### Components
-- [Button](./components/button/design-1.md)
-  - [Design](./components/button/design-1.md)
-  - [Usage](./components/button/usage-1.md)
-  - [Code](./components/button/code-1.md)
- 
-### Resources
-- [Design tokens](./resources/design-tokens.md)
-- [Tools and resources](./resources/tools-and-resources.md)
+- [Button](./components/button/design.md)
+  - [_Design](./components/button/design.md)
+  - [Usage](./components/button/usage.md)
+  - [Code](./components/button/code.md)
+  - [tables](./components/button/tables.md)
 
 ## Generated documentation
 
