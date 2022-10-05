@@ -3,9 +3,9 @@
 
 ---
 
-# Code
+## Button
 
-## Live demo
+## Live Demo
 
 To display a live demo, use the *React Render Code* block:
 

@@ -4,23 +4,17 @@ Welcome to our design system documentation! Below you will find the entire conte
 
 ## Content
  
-### Introduction
-- [Tab1](./introduction/tab1.md)
-- [_Tab2](./introduction/tab2.md)
- 
-### Foundations
-- [Overview](./foundations/overview.md)
-- [Color](./foundations/color.md)
-- [Typography](./foundations/typography.md)
-- [Iconography](./foundations/iconography.md)
-- [Layout](./foundations/layout.md)
+### Styleguide
+- [Typography](./styleguide/typography.md)
+- [Icons](./styleguide/icons.md)
+- [Colors](./styleguide/colors/default-brand.md)
+  - [Default Brand](./styleguide/colors/default-brand.md)
+  - [Alternate Brand](./styleguide/colors/alternate-brand.md)
  
 ### Components
-- [Button](./components/button/design.md)
-  - [_Design](./components/button/design.md)
-  - [Usage](./components/button/usage.md)
+- [Button](./components/button/overview.md)
+  - [Overview](./components/button/overview.md)
   - [Code](./components/button/code.md)
-  - [tables](./components/button/tables.md)
 
 ## Generated documentation
 
