@@ -30,3 +30,7 @@ primary.background: rgb(107, 98, 204)
 
 
 ## Other cool tokens!
+
+  
+primary.hoverBackground: rgb(106, 221, 198)  
+primary.background: rgb(151, 231, 213)  
