@@ -15,9 +15,14 @@ The most basic component for rendering text blocks.
 
   
 **Token Group Typography**:    
-H1: Advent Pro Bold 57px  
-H2: Advent Pro Bold 43px  
-H3: Advent Pro Bold 32px  
-H4: Advent Pro Bold 24px  
-H5: Advent Pro Bold 21px  
-Sale: Advent Pro Bold 24px, upper  
+H1: Inter Regular 57px  
+H2: Inter Regular 43px  
+H3: Inter Regular 32px  
+H4: Inter Regular 24px  
+H5: Inter Regular 21px  
+Large Lead: Inter Regular 24px  
+Medium Lead: Inter Regular 21px  
+Button Label: Inter Regular 21px  
+Paragraph: Inter Regular 18px  
+Small Paragraph: Inter Regular 16px  
+Tiny Paragraph: Inter Regular 12px  

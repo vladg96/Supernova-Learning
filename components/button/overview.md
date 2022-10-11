@@ -42,3 +42,5 @@ Once you’ve identified which actions are the most important at the moment, you
 Buttons with icons are great when you need to draw more attention to the action. Icons add additional context and makes the buttons more easy to scan.
 
 But it’s essential to not overuse these buttons. If everything is grabbing attention, things usually get messy.
+
+![Img](https://studio-assets.supernova.io/design-systems/19054/43542ba2-e20b-4897-9e27-89abfe542d97.gif?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xOTA1NC80MzU0MmJhMi1lMjBiLTQ4OTctOWUyNy04OWFiZmU1NDJkOTcuZ2lmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=VsIH7GOwPpf42J9gn-~L~BsWGWJq6OI3qMir27o1-YCT6llhsWXBP3ArRXsz3e-zIv7nrKyMTT~23-G~fKuEvejP8-mbY9F2Q77e4D8Z0LTDWk4-TbJVuAgAyB~vPU2yRVkADez4f5ZCcNSreYb-hhCdDXkbn3ejUzfY7tEj2s5Dg9GY8iIXxL6JsZ~BKZZOHW6t5AUsYKSGGKNtsgjrwhBYbXIkITg5cUMveeZzWHgAZU8jvKcWsbMhIsnFfjpJcjr~Y~dClEjZbfL1RDpe4sBue1nUqTuaIGnnqIGMRrEnF2RQQTsPx638iye6k7sumxu4GdZepRPpVO~uCx9RSw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
