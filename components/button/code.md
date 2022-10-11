@@ -93,3 +93,7 @@ Or embed a Storybook story with the *Storybook* block:
 
   
 [Open Storybook Canvas](https://6195b518b76f57003aa69b4c-ynczzfqqyq.chromatic.com?addons=1&stories=0&panel=true&nav=false&path=%2Fstory%2Fsurfaces-modals--default)  
+
+
+  
+[Open Storybook Canvas](https://6195b518b76f57003aa69b4c-ynczzfqqyq.chromatic.com?addons=1&stories=0&panel=true&nav=false&path=%2Fstory%2Fdisplay-badge--default)  
