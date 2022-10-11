@@ -1,0 +1,13 @@
+{
+  "workspaceId": "14731",
+  "designSystemId": "19054",
+  "designSystemVersionId": "19487",
+  "brandId": "19185",
+  "exporterId": "15",
+  "workspaceName": "Demo-Vlad",
+  "designSystemName": "Understanding Supernova",
+  "designSystemVersionName": "Shared draft",
+  "exporterName": "Android",
+  "write_to": "new",
+  "description": "Note to our fellow developers: Install Supernova integration from the VSCode marketplace and then our  Android exporter will synchronize design data and generate appropriate code from the  Shared draft design system every time you request it through the extension interface, fully automatically."
+}
